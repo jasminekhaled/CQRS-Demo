@@ -1,0 +1,17 @@
+G:\WEB DEVELOPMENT\CQRS-Demo\Persistence\bin\Debug\net6.0\Persistence.deps.json
+G:\WEB DEVELOPMENT\CQRS-Demo\Persistence\bin\Debug\net6.0\Persistence.dll
+G:\WEB DEVELOPMENT\CQRS-Demo\Persistence\bin\Debug\net6.0\Persistence.pdb
+G:\WEB DEVELOPMENT\CQRS-Demo\Persistence\bin\Debug\net6.0\Domain.dll
+G:\WEB DEVELOPMENT\CQRS-Demo\Persistence\bin\Debug\net6.0\Domain.pdb
+G:\WEB DEVELOPMENT\CQRS-Demo\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+G:\WEB DEVELOPMENT\CQRS-Demo\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+G:\WEB DEVELOPMENT\CQRS-Demo\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+G:\WEB DEVELOPMENT\CQRS-Demo\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+G:\WEB DEVELOPMENT\CQRS-Demo\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+G:\WEB DEVELOPMENT\CQRS-Demo\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+G:\WEB DEVELOPMENT\CQRS-Demo\Persistence\obj\Debug\net6.0\Persistence.dll
+G:\WEB DEVELOPMENT\CQRS-Demo\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+G:\WEB DEVELOPMENT\CQRS-Demo\Persistence\obj\Debug\net6.0\Persistence.pdb
+G:\WEB DEVELOPMENT\CQRS-Demo\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+G:\WEB DEVELOPMENT\CQRS-Demo\Persistence\bin\Debug\net6.0\Persistence.runtimeconfig.json
+G:\WEB DEVELOPMENT\CQRS-Demo\Persistence\obj\Debug\net6.0\Persistence.genruntimeconfig.cache
